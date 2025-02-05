@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for dir in one two three
+do
+  touch $dir
+done
